@@ -3,3 +3,5 @@
 1.github的推送：
 a.clone某个远程master本地(无法单独clone某个master的branch，只能整体clone master下来之后选择某个branch，注意，clon到本地会生成一个以仓库名为名字的文件夹，里面是相关内容)；
 b.客户端界面change|history左侧两个按钮，分别从左到右代表：叉出一个分支（可以是分支的分支？），选择分支
+=====================
+如何同时维护多个分支
